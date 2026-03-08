@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Product_Category,Product_Name,Quantity,Price,Discount,Payment_Method,Order_Status
+1001,2024-02-10,C001,Customer_1,Mumbai,Electronics,Power Bank,2,14828,0.05,UPI,Delivered
+1002,2024-02-13,C002,Customer_2,Jaipur,Electronics,SSD Drive,4,2282,0.0,Credit Card,Delivered
+1003,2024-01-15,C003,Customer_3,Jaipur,Electronics,Printer,2,47125,0.2,Debit Card,Delivered
+1004,2024-01-29,C004,Customer_4,Lucknow,Beauty,Face Cream,2,45953,0.15,Debit Card,Delivered
+1005,2024-01-10,C005,Customer_5,Bangalore,Beauty,Lipstick,1,25098,0.0,Debit Card,Delivered
+1006,2024-02-08,C006,Customer_6,Chennai,Electronics,Webcam,1,25007,0.0,UPI,Delivered
+1007,2024-02-23,C007,Customer_7,Lucknow,Beauty,Shampoo,2,46374,0.0,Credit Card,Delivered
+1008,2024-02-19,C008,Customer_8,Chennai,Electronics,Smart Watch,1,25111,0.1,Debit Card,Delivered
+1009,2024-01-11,C009,Customer_9,Kolkata,Beauty,Sunscreen,3,46194,0.0,UPI,Delivered
+1010,2024-02-04,C010,Customer_10,Bangalore,Clothing,Women Sweater,4,17891,0.2,Credit Card,Delivered
+1011,2024-02-23,C011,Customer_11,Delhi,Clothing,Men T-Shirt,3,26490,0.1,Credit Card,Delivered
+1012,2024-02-28,C012,Customer_12,Lucknow,Beauty,Sunscreen,4,26128,0.15,Credit Card,Delivered
+1013,2024-01-09,C013,Customer_13,Bangalore,Beauty,Shampoo,4,38442,0.15,Debit Card,Delivered
+1014,2024-01-09,C014,Customer_14,Jaipur,Home,Kitchen Blender,1,7385,0.05,UPI,Delivered
+1015,2024-02-20,C015,Customer_15,Pune,Electronics,Tablet,4,39252,0.15,UPI,Delivered
+1016,2024-02-05,C016,Customer_16,Delhi,Electronics,Printer,3,42206,0.1,Credit Card,Delivered
+1017,2024-01-28,C017,Customer_17,Hyderabad,Home,Kitchen Blender,3,33006,0.05,UPI,Delivered
+1018,2024-02-25,C018,Customer_18,Chennai,Clothing,Women Jeans,3,10787,0.2,UPI,Delivered
+1019,2024-02-08,C019,Customer_19,Kolkata,Home,Kitchen Blender,1,23988,0.1,Credit Card,Delivered
+1020,2024-01-16,C020,Customer_20,Lucknow,Electronics,Keyboard,4,4735,0.2,Credit Card,Delivered
+1021,2024-02-12,C021,Customer_21,Ahmedabad,Clothing,Men Jacket,4,14080,0.2,UPI,Delivered
+1022,2024-02-15,C022,Customer_22,Chennai,Home,Air Fryer,3,28911,0.2,Debit Card,Delivered
+1023,2024-01-16,C023,Customer_23,Bangalore,Electronics,Monitor,1,38755,0.2,Credit Card,Delivered
+1024,2024-01-01,C024,Customer_24,Mumbai,Electronics,Smart Watch,1,2258,0.1,Credit Card,Delivered
+1025,2024-01-18,C025,Customer_25,Ahmedabad,Clothing,Men Shoes,2,47605,0.2,UPI,Returned
+1026,2024-01-16,C026,Customer_26,Ahmedabad,Home,Coffee Maker,1,6552,0.15,Debit Card,Returned
+1027,2024-01-27,C027,Customer_27,Ahmedabad,Electronics,Keyboard,1,26586,0.1,Credit Card,Delivered
+1028,2024-01-13,C028,Customer_28,Bangalore,Home,Coffee Maker,4,12225,0.1,Debit Card,Delivered
+1029,2024-02-25,C029,Customer_29,Mumbai,Home,Iron Box,1,3515,0.2,Credit Card,Delivered
+1030,2024-02-29,C030,Customer_30,Bangalore,Clothing,Women Skirt,4,31746,0.05,Debit Card,Delivered
+1031,2024-01-11,C031,Customer_31,Pune,Electronics,Tablet,3,30019,0.1,Debit Card,Returned
+1032,2024-01-10,C032,Customer_32,Bangalore,Beauty,Sunscreen,1,38157,0.2,Credit Card,Delivered
+1033,2024-01-04,C033,Customer_33,Delhi,Home,Iron Box,2,3927,0.2,Credit Card,Delivered
+1034,2024-01-05,C034,Customer_34,Lucknow,Electronics,Smart Watch,4,8056,0.2,Credit Card,Delivered
+1035,2024-02-09,C035,Customer_35,Mumbai,Home,Air Fryer,3,17289,0.05,UPI,Delivered
+1036,2024-01-16,C036,Customer_36,Chennai,Home,Coffee Maker,3,30164,0.1,Credit Card,Delivered
+1037,2024-01-30,C037,Customer_37,Lucknow,Electronics,Keyboard,2,33353,0.1,Credit Card,Delivered
+1038,2024-02-26,C038,Customer_38,Mumbai,Clothing,Women Kurti,3,10538,0.15,UPI,Delivered
+1039,2024-02-09,C039,Customer_39,Jaipur,Electronics,Printer,3,43675,0.0,Credit Card,Delivered
+1040,2024-01-08,C040,Customer_40,Mumbai,Clothing,Men Jacket,3,39838,0.05,UPI,Delivered
+1041,2024-01-14,C041,Customer_41,Chennai,Home,LED Lamp,1,6248,0.15,Debit Card,Delivered
+1042,2024-01-01,C042,Customer_42,Kolkata,Clothing,Men Jacket,2,48777,0.15,UPI,Returned
+1043,2024-02-05,C043,Customer_43,Delhi,Electronics,Keyboard,2,35955,0.0,Debit Card,Delivered
+1044,2024-01-28,C044,Customer_44,Hyderabad,Electronics,Power Bank,3,2814,0.1,Credit Card,Delivered
+1045,2024-02-12,C045,Customer_45,Mumbai,Beauty,Makeup Kit,4,40875,0.05,Credit Card,Delivered
+1046,2024-02-21,C046,Customer_46,Hyderabad,Home,Kitchen Blender,2,48471,0.1,Debit Card,Delivered
+1047,2024-01-18,C047,Customer_47,Hyderabad,Electronics,Tablet,1,31047,0.05,Credit Card,Returned
+1048,2024-01-23,C048,Customer_48,Chennai,Clothing,Summer Top,1,43455,0.05,Debit Card,Delivered
+1049,2024-01-18,C049,Customer_49,Mumbai,Beauty,Moisturizer,4,44732,0.2,Debit Card,Delivered
+1050,2024-01-08,C050,Customer_50,Chennai,Clothing,Women Handbag,3,2707,0.0,UPI,Returned
+1051,2024-01-23,C051,Customer_51,Kolkata,Home,Iron Box,1,25444,0.2,Credit Card,Delivered
+1052,2024-01-03,C052,Customer_52,Pune,Electronics,Printer,2,24069,0.15,Credit Card,Delivered
+1053,2024-02-09,C053,Customer_53,Kolkata,Electronics,Power Bank,3,43905,0.15,Debit Card,Returned
+1054,2024-02-14,C054,Customer_54,Chennai,Clothing,Summer Top,4,43776,0.15,UPI,Delivered
+1055,2024-02-09,C055,Customer_55,Lucknow,Beauty,Nail Polish,1,20114,0.1,Credit Card,Returned
+1056,2024-02-20,C056,Customer_56,Lucknow,Beauty,Hair Serum,4,29177,0.05,UPI,Returned
+1057,2024-02-20,C057,Customer_57,Hyderabad,Electronics,Power Bank,3,6320,0.05,UPI,Delivered
+1058,2024-01-15,C058,Customer_58,Bangalore,Clothing,Men T-Shirt,1,16246,0.15,UPI,Delivered
+1059,2024-01-30,C059,Customer_59,Pune,Clothing,Women Skirt,4,26391,0.05,Credit Card,Delivered
+1060,2024-02-27,C060,Customer_60,Mumbai,Home,Coffee Maker,2,45807,0.2,Debit Card,Delivered
+1061,2024-02-05,C061,Customer_61,Bangalore,Electronics,Webcam,2,30650,0.2,UPI,Delivered
+1062,2024-03-01,C062,Customer_62,Ahmedabad,Home,Iron Box,4,10630,0.15,Debit Card,Delivered
+1063,2024-02-18,C063,Customer_63,Bangalore,Beauty,Makeup Kit,4,41274,0.05,Debit Card,Returned
+1064,2024-01-05,C064,Customer_64,Chennai,Clothing,Men Jacket,3,21152,0.2,Credit Card,Delivered
+1065,2024-01-10,C065,Customer_65,Bangalore,Home,Air Fryer,2,46495,0.05,Credit Card,Returned
+1066,2024-01-27,C066,Customer_66,Kolkata,Home,Vacuum Cleaner,1,13755,0.15,Debit Card,Delivered
+1067,2024-02-24,C067,Customer_67,Lucknow,Home,Vacuum Cleaner,1,23252,0.1,Debit Card,Returned
+1068,2024-02-04,C068,Customer_68,Jaipur,Clothing,Women Sweater,2,18087,0.15,Debit Card,Delivered
+1069,2024-01-25,C069,Customer_69,Kolkata,Home,Air Fryer,2,30830,0.05,UPI,Delivered
+1070,2024-02-28,C070,Customer_70,Pune,Electronics,Keyboard,4,9093,0.15,Credit Card,Delivered
+1071,2024-01-17,C071,Customer_71,Pune,Beauty,Sunscreen,4,21620,0.1,Debit Card,Delivered
+1072,2024-02-18,C072,Customer_72,Pune,Beauty,Lipstick,4,1470,0.2,Credit Card,Delivered
+1073,2024-01-15,C073,Customer_73,Mumbai,Electronics,Wireless Mouse,2,13265,0.0,UPI,Delivered
+1074,2024-01-16,C074,Customer_74,Hyderabad,Home,Air Fryer,1,37160,0.05,Debit Card,Delivered
+1075,2024-02-19,C075,Customer_75,Kolkata,Clothing,Women Handbag,1,10932,0.1,Credit Card,Delivered
+1076,2024-02-29,C076,Customer_76,Chennai,Home,Vacuum Cleaner,2,5180,0.2,UPI,Delivered
+1077,2024-01-07,C077,Customer_77,Chennai,Electronics,SSD Drive,1,22954,0.2,Debit Card,Delivered
+1078,2024-01-05,C078,Customer_78,Jaipur,Beauty,Face Cream,4,32325,0.0,Debit Card,Delivered
+1079,2024-02-10,C079,Customer_79,Ahmedabad,Clothing,Women Skirt,2,48290,0.2,UPI,Delivered
+1080,2024-02-09,C080,Customer_80,Jaipur,Home,Vacuum Cleaner,4,48108,0.2,Debit Card,Delivered
+1081,2024-02-24,C081,Customer_81,Bangalore,Electronics,Power Bank,4,16181,0.15,UPI,Returned
+1082,2024-01-22,C082,Customer_82,Delhi,Home,LED Lamp,2,32152,0.05,Debit Card,Delivered
+1083,2024-01-22,C083,Customer_83,Chennai,Beauty,Makeup Kit,1,34057,0.05,Credit Card,Delivered
+1084,2024-02-16,C084,Customer_84,Pune,Home,Iron Box,2,45459,0.15,UPI,Returned
+1085,2024-01-29,C085,Customer_85,Delhi,Electronics,Power Bank,2,26702,0.05,Debit Card,Delivered
+1086,2024-01-31,C086,Customer_86,Jaipur,Beauty,Nail Polish,3,23256,0.15,Debit Card,Delivered
+1087,2024-01-17,C087,Customer_87,Bangalore,Electronics,Smart Watch,3,8035,0.2,UPI,Delivered
+1088,2024-01-13,C088,Customer_88,Bangalore,Home,LED Lamp,3,6788,0.05,Debit Card,Delivered
+1089,2024-01-24,C089,Customer_89,Hyderabad,Beauty,Face Cream,2,18177,0.0,Credit Card,Delivered
+1090,2024-02-14,C090,Customer_90,Hyderabad,Home,Kitchen Blender,1,37821,0.1,Debit Card,Returned
+1091,2024-01-29,C091,Customer_91,Kolkata,Clothing,Men T-Shirt,3,31508,0.0,Credit Card,Returned
+1092,2024-02-01,C092,Customer_92,Mumbai,Electronics,Bluetooth Speaker,2,37086,0.1,Credit Card,Delivered
+1093,2024-01-08,C093,Customer_93,Jaipur,Home,Iron Box,2,34447,0.15,Debit Card,Returned
+1094,2024-01-20,C094,Customer_94,Lucknow,Home,LED Lamp,1,40152,0.0,Credit Card,Delivered
+1095,2024-01-17,C095,Customer_95,Mumbai,Clothing,Summer Top,2,36375,0.0,Credit Card,Delivered
+1096,2024-01-27,C096,Customer_96,Ahmedabad,Home,LED Lamp,1,15370,0.1,UPI,Delivered
+1097,2024-02-14,C097,Customer_97,Ahmedabad,Electronics,Smart Watch,3,41163,0.2,UPI,Delivered
+1098,2024-01-28,C098,Customer_98,Mumbai,Clothing,Women Jeans,3,9521,0.0,Credit Card,Delivered
+1099,2024-02-20,C099,Customer_99,Chennai,Beauty,Hair Serum,1,30916,0.1,UPI,Returned
+1100,2024-03-01,C100,Customer_100,Chennai,Home,Vacuum Cleaner,1,39392,0.0,Debit Card,Delivered
