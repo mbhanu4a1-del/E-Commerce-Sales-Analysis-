@@ -1,4 +1,3 @@
-<img width="1526" height="813" alt="Screenshot 2026-03-08 140416" src="https://github.com/user-attachments/assets/6e776bc9-eb2b-484b-b81a-07c4b6a893d7" />
 # E-Commerce-Sales-Analysis-
 E-commerce sales analysis using SQL and Power BI
 
